@@ -161,6 +161,7 @@ body {
     .container {
         display:block;
         background-image: none;
+        
     }
 
     .container__imagem {
@@ -187,4 +188,5 @@ body {
     .rodape__lista {
         display: block;
     }
+
 }

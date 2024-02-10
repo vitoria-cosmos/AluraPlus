@@ -16,6 +16,8 @@ Algumas imagens do projeto:
 * CSS
 
 * Flex-box
+  
+* CSS Grid
 
 ## Feito por:
 

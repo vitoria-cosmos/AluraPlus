@@ -1,6 +1,8 @@
 # Alura Plus
 Olá, Bem vindo ao projeto Alura Plus, que é uma plataforma de streaming fictícia. 
 
+## Link para acessar a página:  https://vitoria-cosmos.github.io/AluraPlus/
+
 Algumas imagens do projeto: 
 
 <img src="/projectImg/image01.png">
